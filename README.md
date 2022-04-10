@@ -47,7 +47,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 [[paper]](https://arxiv.org/abs/2203.08307)
 [[Code]](https://github.com/cambridgeltl/ContrastiveBLI)
 
-**Comments:** New state-of-the-art method for semi-supervised and supervised BLI!
+**Comments:** New (2022) state-of-the-art method for semi-supervised and supervised BLI!
 
 ### 2. BLISS
 
