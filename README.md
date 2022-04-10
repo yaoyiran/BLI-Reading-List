@@ -8,7 +8,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 *Chao Xing, Dong Wang, Chao Liu, Yiye Lin.*<br>
 [[paper]](https://aclanthology.org/N15-1104.pdf)
 
-**Comments:** Beginners could also refer to [Procrustes on Wikipedia](https://en.wikipedia.org/wiki/Orthogonal_Procrustes_problem). 
+**Comments:** Beginners could also refer to [Procrustes on Wikipedia](https://en.wikipedia.org/wiki/Orthogonal_Procrustes_problem) and our sample code [./SampleCode.py](https://github.com/yaoyiran/Awesome-Bilingual-Lexicon-Induction-Papers-2022/blob/main/SampleCode.py). 
 
 ### 2. MUSE
 
