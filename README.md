@@ -1,5 +1,5 @@
 # Awesome-Bilingual-Lexicon-Induction-Papers
-An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Word Translation, Bilingual Lexicon Extraction, Bilingual Dictionary Induction, and so forth, closely related to the topic of Cross-Lingual Word Embeddings (CLWEs). ***Frequently updated. Pull requests and discussions are welcome!***
+An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Word Translation, Bilingual Lexicon Extraction, Bilingual Dictionary Induction, and so forth, closely related to the topic of Cross-Lingual Word Embeddings (CLWEs). This list mainly includes papers after 2018. ***Frequently updated. Pull requests and discussions are welcome!***
 
 # Most Frequently Used Baselines
 ### 1. Procrustes
@@ -125,6 +125,16 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 *Mladen Karan, Ivan Vulić, Anna Korhonen, Goran Glavaš*<br>
 [[paper]](https://aclanthology.org/2020.acl-main.618/)
 [[Code]](https://github.com/mladenk42/ClassyMap)
+
+### 13. 
+
+**Visual Grounding in Video for Unsupervised Word Translation (CVPR 2020).**<br>
+*Gunnar A. Sigurdsson, Jean-Baptiste Alayrac, Aida Nematzadeh, Lucas Smaira, Mateusz Malinowski, Joao Carreira, Phil Blunsom, Andrew Zisserman*<br>
+[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Sigurdsson_Visual_Grounding_in_Video_for_Unsupervised_Word_Translation_CVPR_2020_paper.html)
+[[Code]](https://github.com/gsig/visual-grounding)
+
+
+
 
 # Recent Progress in BLI: Datasets, Benchmarks & Analyses
 ### 1. XLING (Dataset)
