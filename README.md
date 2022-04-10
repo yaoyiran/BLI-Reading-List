@@ -1,5 +1,5 @@
 # Awesome-Bilingual-Lexicon-Induction-Papers
-An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Word Translation, Bilingual Lexicon Extraction, Bilingual Dictionary Induction, and so forth, closely related to the topic of Cross-Lingual Word Embeddings (CLWEs). Frequently updated. Pull requests and discussions are welcome!
+An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Word Translation, Bilingual Lexicon Extraction, Bilingual Dictionary Induction, and so forth, closely related to the topic of Cross-Lingual Word Embeddings (CLWEs). Frequently updated. Pull requests and discussions are welcome! 
 
 # Most Frequently Used Baselines
 ### 1. Procrustes
@@ -38,7 +38,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 
 **Comments:** VecMap supports unsupervised (its ACL 2018 paper), semi-supervised and supervised (its AAAI 2018 paper) BLI settings.
 
-# Recent Progress in BLI &#9658 Methodologies
+# Recent Progress in BLI: Methodologies
 
 ### 1. ContrastiveBLI
 
@@ -128,7 +128,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 [[paper]](https://aclanthology.org/2020.acl-main.618/)
 [[Code]](https://github.com/mladenk42/ClassyMap)
 
-# Recent Progress in BLI &mdash Datasets, Benchmarks & Analyses
+# Recent Progress in BLI: Datasets, Benchmarks & Analyses
 ### 1. XLING (Dataset)
 
 **How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions (ACL 2019).**<br>
