@@ -180,7 +180,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 [[paper]](http://proceedings.mlr.press/v89/grave19a.html)
 [[Code]](https://github.com/facebookresearch/fastText/tree/main/alignment)
 
-### 21. 
+### 21. OTAlign
 
 **Gromov-Wasserstein Alignment of Word Embedding Spaces (EMNLP 2018).**<br>
 *David Alvarez-Melis, Tommi Jaakkola*<br>
