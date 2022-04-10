@@ -38,7 +38,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 
 **Comments:** VecMap supports unsupervised (its ACL 2018 paper), semi-supervised and supervised (its AAAI 2018 paper) BLI settings.
 
-# Recent Progress in BLI --- Methodologies
+# Recent Progress in BLI &mdash Methodologies
 
 ### 1. ContrastiveBLI
 
@@ -128,7 +128,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 [[paper]](https://aclanthology.org/2020.acl-main.618/)
 [[Code]](https://github.com/mladenk42/ClassyMap)
 
-# Recent Progress in BLI --- Datasets, Benchmarks & Analyses
+# Recent Progress in BLI &mdash Datasets, Benchmarks & Analyses
 ### 1. XLING (Dataset)
 
 **How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions (ACL 2019).**<br>
