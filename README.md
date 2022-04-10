@@ -47,7 +47,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 [[paper]](https://arxiv.org/abs/2203.08307)
 [[Code]](https://github.com/cambridgeltl/ContrastiveBLI)
 
-**Comments:** New state-of-the-art method for semi-supervised and supervised BLI.
+**Comments:** New state-of-the-art method for semi-supervised and supervised BLI!
 
 ### 2. BLISS
 
@@ -126,17 +126,30 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 [[paper]](https://aclanthology.org/2020.acl-main.618/)
 [[Code]](https://github.com/mladenk42/ClassyMap)
 
-### 13. 
+### 13. MUVE
 
 **Visual Grounding in Video for Unsupervised Word Translation (CVPR 2020).**<br>
 *Gunnar A. Sigurdsson, Jean-Baptiste Alayrac, Aida Nematzadeh, Lucas Smaira, Mateusz Malinowski, Joao Carreira, Phil Blunsom, Andrew Zisserman*<br>
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Sigurdsson_Visual_Grounding_in_Video_for_Unsupervised_Word_Translation_CVPR_2020_paper.html)
 [[Code]](https://github.com/gsig/visual-grounding)
 
+### 14. Bidirectional-RMP
 
+**A Relaxed Matching Procedure for Unsupervised BLI (ACL 2020).**<br>
+*Xu Zhao, Zihao Wang, Yong Zhang and Hao Wu*<br>
+[[paper]](https://aclanthology.org/2020.acl-main.274/)
+[[Code]](https://github.com/BestActionNow/bidirectional-RMP)
 
+### 15. 
 
-# Recent Progress in BLI: Datasets, Benchmarks & Analyses
+**A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction (ACL 2020).**<br>
+*Shuo Ren, Shujie Liu, Ming Zhou, Shuai Ma*<br>
+[[paper]](https://aclanthology.org/2020.acl-main.318/)
+[[Code]]()
+
+**Comments:**
+
+# Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
 
 **How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions (ACL 2019).**<br>
@@ -144,24 +157,32 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 [[paper]](https://aclanthology.org/P19-1070/)
 [[Code]](https://github.com/codogogo/xling-eval)
 
-### 2. PanlexBli (Dataset)
+### 2. Panlex-BLI (Dataset)
 
 **Do We Really Need Fully Unsupervised Cross-Lingual Embeddings? (EMNLP 2019).**<br>
 *Ivan Vulić, Goran Glavaš, Roi Reichart, Anna Korhonen*<br>
 [[paper]](https://aclanthology.org/D19-1449/)
 [[Code]](https://github.com/cambridgeltl/panlex-bli)
 
-### 3. 
+### 3. (Analysis)
 **On the Limitations of Unsupervised Bilingual Dictionary Induction (ACL 2018).**<br>
 *Anders Søgaard, Sebastian Ruder, Ivan Vulić*<br>
 [[paper]](https://aclanthology.org/P18-1072/)
 
-### 4.
+### 4. ISO-Study
 
 **Are All Good Word Vector Spaces Isomorphic? (EMNLP 2020).**<br>
 *Ivan Vulić, Sebastian Ruder, Anders Søgaard*<br>
 [[paper]](https://aclanthology.org/2020.emnlp-main.257/)
 [[Code]](https://github.com/cambridgeltl/iso-study)
+
+### 5. (Survey)
+
+**A Survey of Cross-Lingual Word Embedding Models (JAIR 2019).**<br>
+*Sebastian Ruder, Ivan Vulić, Anders Søgaard*<br>
+[[paper]](https://www.jair.org/index.php/jair/article/view/11640)
+
+**Comments:**
 
 # Pull Requests Are Welcome:
 
