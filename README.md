@@ -131,7 +131,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 # Recent Progress in BLI --- Datasets, Benchmarks & Analyses
 ### 1. XLING (Dataset)
 
-**How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions ().**<br>
+**How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions (ACL 2019).**<br>
 *Goran Glavaš, Robert Litschko, Sebastian Ruder, Ivan Vulić*<br>
 [[paper]](https://aclanthology.org/P19-1070/)
 [[Code]](https://github.com/codogogo/xling-eval)
@@ -150,7 +150,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 
 ### 4.
 
-**Are All Good Word Vector Spaces Isomorphic? ().**<br>
+**Are All Good Word Vector Spaces Isomorphic? (EMNLP 2020).**<br>
 *Ivan Vulić, Sebastian Ruder, Anders Søgaard*<br>
 [[paper]](https://aclanthology.org/2020.emnlp-main.257/)
 [[Code]](https://github.com/cambridgeltl/iso-study)
