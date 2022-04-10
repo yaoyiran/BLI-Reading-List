@@ -140,14 +140,38 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 [[paper]](https://aclanthology.org/2020.acl-main.274/)
 [[Code]](https://github.com/BestActionNow/bidirectional-RMP)
 
-### 15. 
+### 15. (Methodology)
 
 **A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction (ACL 2020).**<br>
 *Shuo Ren, Shujie Liu, Ming Zhou, Shuai Ma*<br>
 [[paper]](https://aclanthology.org/2020.acl-main.318/)
-[[Code]]()
 
-**Comments:**
+### 16. CrossLingualELMo
+
+**Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing (NAACL 2019).**<br>
+*Tal Schuster, Ori Ram, Regina Barzilay, Amir Globerson*<br>
+[[paper]](https://aclanthology.org/N19-1162/)
+[[Code]](https://github.com/TalSchuster/CrossLingualContextualEmb)
+
+### 17. (Methodology)
+
+**Multilingual Alignment of Contextual Word Representations (ICLR 2020).**<br>
+*Steven Cao, Nikita Kitaev, Dan Klein*<br>
+[[paper]](https://openreview.net/forum?id=r1xCMyBtPS)
+
+### 18. Bitext-Lexind
+
+**Bilingual Lexicon Induction via Unsupervised Bitext Construction and Word Alignment (ACL 2021).**<br>
+*Haoyue Shi, Luke Zettlemoyer, Sida I. Wang*<br>
+[[paper]](https://aclanthology.org/2021.acl-long.67/)
+[[Code]](https://github.com/facebookresearch/bitext-lexind)
+
+### 19. Monoses
+
+**Bilingual Lexicon Induction through Unsupervised Machine Translation (ACL 2019).**<br>
+*Mikel Artetxe, Gorka Labaka, Eneko Agirre*<br>
+[[paper]](https://aclanthology.org/P19-1494/)
+[[Code]](https://github.com/artetxem/monoses)
 
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
