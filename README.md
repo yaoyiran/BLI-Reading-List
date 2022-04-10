@@ -38,30 +38,32 @@ A Reading List for Bilingual Lexicon Induction (BLI), also known as Word Transla
 
 **Comments:** Support unsupervised (its ACL 2018 paper), semi-supervised and supervised (its AAAI 2018 paper) BLI settings.
 
-# Recent Progress in BLI
+# Recent Progress in BLI --- Methodologies
 
-### 5. ContrastiveBLI
+### 1. ContrastiveBLI
 
 **Improving Word Translation via Two-Stage Contrastive Learning (ACL 2022).**<br>
 *Yaoyiran Li, Fangyu Liu, Nigel Collier, Anna Korhonen, Ivan Vulić*<br>
 [[paper]](https://arxiv.org/abs/2203.08307)
 [[Code]](https://github.com/cambridgeltl/ContrastiveBLI)
 
-### 6. BLISS
+**Comments:** New state-of-the-art method for semi-supervised and supervised BLI.
+
+### 2. BLISS
 
 **Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces (ACL 2019).**<br>
 *Barun Patra, Joel Ruben Antony Moniz, Sarthak Garg, Matthew R. Gormley, Graham Neubig*<br>
 [[paper]](https://aclanthology.org/P19-1018/)
 [[Code]](https://github.com/joelmoniz/BLISS)
 
-### 7. GeoMM
+### 3. GeoMM
 
 **Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach (TACL 2019).**<br>
 *Pratik Jawanpuria, Arjun Balgovind, Anoop Kunchukuttan, Bamdev Mishra*<br>
 [[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00257/43509/Learning-Multilingual-Word-Embeddings-in-Latent)
 [[Code]](https://github.com/anoopkunchukuttan/geomm)
 
-### 8. LNMap
+### 4. LNMap
 
 **LNMap: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space (EMNLP 2020).**<br>
 *Tasnim Mohiuddin, M Saiful Bari, Shafiq Joty*<br>
@@ -70,58 +72,105 @@ A Reading List for Bilingual Lexicon Induction (BLI), also known as Word Transla
 
 **Comments:** use non-linear feed-forward networks.
 
-### 9. InstaMap
+### 5. InstaMap
 
 **Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces (ACL 2020).**<br>
 *Goran Glavaš, Ivan Vulić*<br>
 [[paper]](https://aclanthology.org/2020.acl-main.675/)
 [[Code]](https://github.com/codogogo/instamap)
 
-### 10. CSCBLI
+### 6. CSCBLI
 
 **Combining Static Word Embeddings and Contextual Representations for Bilingual Lexicon Induction (Findings of ACL 2021).**<br>
 *Jinpeng Zhang, Baijun Ji, Nini Xiao, Xiangyu Duan, Min Zhang, Yangbin Shi, Weihua Luo*<br>
 [[paper]](https://aclanthology.org/2021.findings-acl.260/)
 [[Code]](https://github.com/zjpbinary/CSCBLI)
 
-### 11. mBERT
+### 7. mBERT
 
 **It’s not Greek to mBERT: Inducing Word-Level Translations from Multilingual BERT (BlackboxNLP Workshop 2020).**<br>
 *Hila Gonen, Shauli Ravfogel, Yanai Elazar, Yoav Goldberg*<br>
 [[paper]](https://aclanthology.org/2020.blackboxnlp-1.5/)
 [[Code]](https://github.com/gonenhila/mbert)
 
-### 12. PanlexBli
-
-**Do We Really Need Fully Unsupervised Cross-Lingual Embeddings? (EMNLP 2019).**<br>
-*Ivan Vulić, Goran Glavaš, Roi Reichart, Anna Korhonen*<br>
-[[paper]](https://aclanthology.org/D19-1449/)
-[[Code]](https://github.com/cambridgeltl/panlex-bli)
-
-### 13. IterNorm
+### 8. IterNorm
 
 **Are Girls Neko or Shōjo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization (ACL 2019).**<br>
 *Mozhi Zhang, Keyulu Xu, Ken-ichi Kawarabayashi, Stefanie Jegelka, Jordan Boyd-Graber*<br>
 [[paper]](https://aclanthology.org/P19-1307.pdf)
 [[Code]](https://github.com/zhangmozhi/iternorm)
 
-### 14. SpecNorm
+### 9. SpecNorm
 
 **Normalization of Language Embeddings for Cross-Lingual Alignment (ICLR 2022).**<br>
 *Prince Osei Aboaggye, Yan Zheng, Junpeng Wang, Michael Yeh, Wei Zhang, Liang Wang, Hao Yang, Jeff M. Phillips*<br>
 [[paper]](https://openreview.net/pdf?id=Nh7CtbyoqV5)
 [[Code]](https://github.com/poaboagye/SpecNorm)
 
-### 15. JointAlign
+### 10. JointAlign
 
 **Cross-lingual Alignment vs Joint Training: A Comparative Study and A Simple Unified Framework (ICLR 2020).**<br>
 *Zirui Wang*, Jiateng Xie*, Ruochen Xu, Yiming Yang, Graham Neubig, Jaime Carbonell (*: equal contribution)*<br>
 [[paper]](https://arxiv.org/abs/1910.04708)
 [[Code]](https://github.com/thespectrewithin/joint_align)
 
-### 16. FIPP
+### 11. FIPP
 
 **Filtered Inner Product Projection for Crosslingual Embedding Alignment (ICLR 2021).**<br>
 *Vin Sachidananda, Ziyi Yang, Chenguang Zhu*<br>
 [[paper]](https://openreview.net/pdf?id=A2gNouoXE7)
 [[Code]](https://github.com/vinsachi/FIPPCLE)
+
+### 12. 
+
+**Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction (ACL 2020).**<br>
+*Mladen Karan, Ivan Vulić, Anna Korhonen, Goran Glavaš*<br>
+[[paper]](https://aclanthology.org/2020.acl-main.618/)
+[[Code]](https://github.com/mladenk42/ClassyMap)
+
+# Recent Progress in BLI --- Datasets, Benchmarks & Analyses
+### 1. XLING (Dataset)
+
+**How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions ().**<br>
+*Goran Glavaš, Robert Litschko, Sebastian Ruder, Ivan Vulić*<br>
+[[paper]](https://aclanthology.org/P19-1070/)
+[[Code]](https://github.com/codogogo/xling-eval)
+
+### 2. PanlexBli (Dataset)
+
+**Do We Really Need Fully Unsupervised Cross-Lingual Embeddings? (EMNLP 2019).**<br>
+*Ivan Vulić, Goran Glavaš, Roi Reichart, Anna Korhonen*<br>
+[[paper]](https://aclanthology.org/D19-1449/)
+[[Code]](https://github.com/cambridgeltl/panlex-bli)
+
+### 3. 
+**On the Limitations of Unsupervised Bilingual Dictionary Induction (ACL 2018).**<br>
+*Anders Søgaard, Sebastian Ruder, Ivan Vulić*<br>
+[[paper]](https://aclanthology.org/P18-1072/)
+
+### 4.
+
+**Are All Good Word Vector Spaces Isomorphic? ().**<br>
+*Ivan Vulić, Sebastian Ruder, Anders Søgaard*<br>
+[[paper]](https://aclanthology.org/2020.emnlp-main.257/)
+[[Code]](https://github.com/cambridgeltl/iso-study)
+
+# Pull Requests Are Welcome:
+
+### No.
+
+** ().**<br>
+**<br>
+[[paper]]()
+[[Code]]()
+
+**Comments:**
+
+### No.
+
+** ().**<br>
+**<br>
+[[paper]]()
+[[Code]]()
+
+**Comments:**
