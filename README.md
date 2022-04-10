@@ -38,7 +38,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 
 **Comments:** VecMap supports unsupervised (its ACL 2018 paper), semi-supervised and supervised (its AAAI 2018 paper) BLI settings.
 
-# Recent Progress in BLI &mdash Methodologies
+# Recent Progress in BLI &#9658 Methodologies
 
 ### 1. ContrastiveBLI
 
