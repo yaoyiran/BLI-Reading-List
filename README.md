@@ -1,5 +1,5 @@
 # Awesome-Bilingual-Lexicon-Induction-Papers
-A Reading List for Bilingual Lexicon Induction (BLI), also known as Word Translation, Bilingual Lexicon Extraction, Bilingual Dictionary Induction, and so forth, closely related to the topic of Cross-Lingual Word Embeddings (CLWEs). Frequently Updated. Pull requests are welcome!
+An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Word Translation, Bilingual Lexicon Extraction, Bilingual Dictionary Induction, and so forth, closely related to the topic of Cross-Lingual Word Embeddings (CLWEs). Frequently updated. Pull requests and discussions are welcome!
 
 # Most Frequently Used Baselines
 ### 1. Procrustes
@@ -8,7 +8,7 @@ A Reading List for Bilingual Lexicon Induction (BLI), also known as Word Transla
 *Chao Xing, Dong Wang, Chao Liu, Yiye Lin.*<br>
 [[paper]](https://aclanthology.org/N15-1104.pdf)
 
-**Comments:** Beginners could also refer to [Procrustes on Wikipedia](https://en.wikipedia.org/wiki/Orthogonal_Procrustes_problem) for more details about Procrustes. 
+**Comments:** Beginners could also refer to [Procrustes on Wikipedia](https://en.wikipedia.org/wiki/Orthogonal_Procrustes_problem). 
 
 ### 2. MUSE
 
@@ -36,7 +36,7 @@ A Reading List for Bilingual Lexicon Induction (BLI), also known as Word Transla
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11992)
 [[Code]](https://github.com/artetxem/vecmap)
 
-**Comments:** Support unsupervised (its ACL 2018 paper), semi-supervised and supervised (its AAAI 2018 paper) BLI settings.
+**Comments:** VecMap supports unsupervised (its ACL 2018 paper), semi-supervised and supervised (its AAAI 2018 paper) BLI settings.
 
 # Recent Progress in BLI --- Methodologies
 
@@ -121,7 +121,7 @@ A Reading List for Bilingual Lexicon Induction (BLI), also known as Word Transla
 [[paper]](https://openreview.net/pdf?id=A2gNouoXE7)
 [[Code]](https://github.com/vinsachi/FIPPCLE)
 
-### 12. 
+### 12. ClassyMap
 
 **Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction (ACL 2020).**<br>
 *Mladen Karan, Ivan Vulić, Anna Korhonen, Goran Glavaš*<br>
