@@ -173,6 +173,20 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 [[paper]](https://aclanthology.org/P19-1494/)
 [[Code]](https://github.com/artetxem/monoses)
 
+### 20. (Methodology)
+
+**Unsupervised Alignment of Embeddings with Wasserstein Procrustes (AISTATS 2019).**<br>
+*Edouard Grave, Armand Joulin, Quentin Berthet*<br>
+[[paper]](http://proceedings.mlr.press/v89/grave19a.html)
+[[Code]](https://github.com/facebookresearch/fastText/tree/main/alignment)
+
+### 21. 
+
+**Gromov-Wasserstein Alignment of Word Embedding Spaces (EMNLP 2018).**<br>
+*David Alvarez-Melis, Tommi Jaakkola*<br>
+[[paper]](https://aclanthology.org/D18-1214/)
+[[Code]](https://github.com/dmelis/otalign)
+
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
 
