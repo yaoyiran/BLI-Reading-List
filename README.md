@@ -32,7 +32,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 [[Code]](https://github.com/artetxem/vecmap)
 
 **Generalizing and Improving Bilingual Word Embedding Mappings with a Multi-Step Framework of Linear Transformations (AAAI 2018).**<br>
-*Mikel Artetxe, Gorka Labaka, and Eneko Agirre*<br>
+*Mikel Artetxe, Gorka Labaka, Eneko Agirre*<br>
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11992)
 [[Code]](https://github.com/artetxem/vecmap)
 
@@ -136,7 +136,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 ### 14. Bidirectional-RMP
 
 **A Relaxed Matching Procedure for Unsupervised BLI (ACL 2020).**<br>
-*Xu Zhao, Zihao Wang, Yong Zhang and Hao Wu*<br>
+*Xu Zhao, Zihao Wang, Yong Zhang, Hao Wu*<br>
 [[paper]](https://aclanthology.org/2020.acl-main.274/)
 [[Code]](https://github.com/BestActionNow/bidirectional-RMP)
 
