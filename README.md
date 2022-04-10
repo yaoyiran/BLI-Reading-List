@@ -70,8 +70,6 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 [[paper]](https://aclanthology.org/2020.emnlp-main.215/)
 [[Code]](https://github.com/taasnim/lnmap)
 
-**Comments:** use non-linear feed-forward networks.
-
 ### 5. InstaMap
 
 **Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces (ACL 2020).**<br>
