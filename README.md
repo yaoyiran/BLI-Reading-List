@@ -5,7 +5,7 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 ### 1. Procrustes
 
 **Normalized Word Embedding and Orthogonal Transform for Bilingual Word Translation (NAACL 2015).**<br>
-*Chao Xing, Dong Wang, Chao Liu, Yiye Lin.*<br>
+*Chao Xing, Dong Wang, Chao Liu, Yiye Lin*<br>
 [[paper]](https://aclanthology.org/N15-1104.pdf)
 
 **Comments:** Beginners could also refer to [Procrustes on Wikipedia](https://en.wikipedia.org/wiki/Orthogonal_Procrustes_problem) and our sample code [./SampleCode.py](https://github.com/yaoyiran/Awesome-Bilingual-Lexicon-Induction-Papers-2022/blob/main/SampleCode.py). 
@@ -13,14 +13,14 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 ### 2. MUSE
 
 **Word Translation Without Parallel Data (ICLR 2018).**<br>
-*Guillaume Lample, Alexis Conneau, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou.*<br>
+*Guillaume Lample, Alexis Conneau, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou*<br>
 [[Paper]](https://openreview.net/pdf?id=H196sainb)
 [[Code]](https://github.com/facebookresearch/MUSE)
 
 ### 3. RCSLS
 
 **Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion (EMNLP 2018).**<br>
-*Armand Joulin, Piotr Bojanowski, Tomas Mikolov, Hervé Jégou, Edouard Grave.*<br>
+*Armand Joulin, Piotr Bojanowski, Tomas Mikolov, Hervé Jégou, Edouard Grave*<br>
 [[paper]](https://aclanthology.org/N15-1104.pdf)
 [[Code]](https://github.com/facebookresearch/fastText/tree/main/alignment)
 
