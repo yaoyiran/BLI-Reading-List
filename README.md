@@ -187,6 +187,13 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 [[paper]](https://aclanthology.org/D18-1214/)
 [[Code]](https://github.com/dmelis/otalign)
 
+### 22. L1-Refinement
+
+**Cross-Lingual Word Embedding Refinement by ℓ1 Norm Optimisation (NAACL 2021).**<br>
+*Xutan Peng, Chenghua Lin, Mark Stevenson*<br>
+[[paper]](https://aclanthology.org/2021.naacl-main.214/)
+[[Code]](https://github.com/Pzoom522/L1-Refinement)
+
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
 
