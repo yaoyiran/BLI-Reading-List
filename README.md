@@ -1,4 +1,4 @@
-# Awesome-Bilingual-Lexicon-Induction-Papers
+# Bilingual Lexicon Induction Reading List
 An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Word Translation, Bilingual Lexicon Extraction, Bilingual Dictionary Induction, and so forth, closely related to the topic of Cross-Lingual Word Embeddings (CLWEs). This list mainly includes works published after 2018. ***Frequently updated. Pull requests and discussions are welcome!***
 
 # Most Frequently Used Baselines
