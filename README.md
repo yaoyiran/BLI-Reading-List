@@ -1,5 +1,5 @@
 # Bilingual Lexicon Induction Reading List
-An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Word Translation, Bilingual Lexicon Extraction, Bilingual Dictionary Induction, and so forth, closely related to the topic of Cross-Lingual Word Embeddings (CLWEs). This list mainly includes works published after 2018. ***Frequently updated. Pull requests and discussions are welcome!***
+This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word Translation, Bilingual Lexicon Extraction, Bilingual Dictionary Induction, and so forth, closely related to the topic of Cross-Lingual Word Embeddings (CLWEs). The list mainly includes works published after 2018. ***Frequently updated. Pull requests and discussions are welcome!***
 
 # Most Frequently Used Baselines
 ### 1. Procrustes
@@ -108,7 +108,7 @@ An awesome reading list for Bilingual Lexicon Induction (BLI), also known as Wor
 ### 10. JointAlign
 
 **Cross-lingual Alignment vs Joint Training: A Comparative Study and A Simple Unified Framework (ICLR 2020).**<br>
-*Zirui Wang*, Jiateng Xie*, Ruochen Xu, Yiming Yang, Graham Neubig, Jaime Carbonell (*: equal contribution)*<br>
+*Zirui Wang<sup>+</sup>, Jiateng Xie<sup>+</sup>, Ruochen Xu, Yiming Yang, Graham Neubig, Jaime Carbonell (+: equal contribution)*<br>
 [[paper]](https://arxiv.org/abs/1910.04708)
 [[Code]](https://github.com/thespectrewithin/joint_align)
 
