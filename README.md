@@ -194,6 +194,12 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 [[paper]](https://aclanthology.org/2021.naacl-main.214/)
 [[Code]](https://github.com/Pzoom522/L1-Refinement)
 
+### 23. (Methodology)
+
+**A Simple and Effective Approach to Robust Unsupervised Bilingual Dictionary Induction (COLING 2020).**<br>
+*Yanyang Li, Yingfeng Luo, Ye Lin, Quan Du, Huizhen Wang, Shujian Huang, Tong Xiao, Jingbo Zhu*<br>
+[[paper]](https://aclanthology.org/2020.coling-main.526/)
+
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
 
@@ -227,7 +233,13 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 *Sebastian Ruder, Ivan Vulić, Anders Søgaard*<br>
 [[paper]](https://www.jair.org/index.php/jair/article/view/11640)
 
-**Comments:**
+
+### 6. Embeddings (Dataset)
+
+**Should All Cross-Lingual Embeddings Speak English? (ACL 2020).**<br>
+*Antonios Anastasopoulos, Graham Neubig*<br>
+[[paper]](https://aclanthology.org/2020.acl-main.766/)
+[[Code]](https://github.com/antonisa/embeddings)
 
 # Pull Requests Are Welcome:
 
