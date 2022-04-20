@@ -200,6 +200,14 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 *Yanyang Li, Yingfeng Luo, Ye Lin, Quan Du, Huizhen Wang, Shujian Huang, Tong Xiao, Jingbo Zhu*<br>
 [[paper]](https://aclanthology.org/2020.coling-main.526/)
 
+
+### 24. ContextualMapping
+
+**Cross-Lingual BERT Contextual Embedding Space Mapping with Isotropic and Isometric Conditions (Preprint 2021).**<br>
+*Haoran Xu, Philipp Koehn*<br>
+[[paper]](https://arxiv.org/pdf/2107.09186.pdf)
+[[Code]](https://github.com/fe1ixxu/Contextual_Mapping)
+
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
 
