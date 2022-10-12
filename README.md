@@ -208,6 +208,20 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 [[paper]](https://arxiv.org/pdf/2107.09186.pdf)
 [[Code]](https://github.com/fe1ixxu/Contextual_Mapping)
 
+### 25. BDMA
+
+**Learning a Reversible Embedding Mapping using Bi-Directional Manifold Alignment (Findings of ACL 2021).**<br>
+*Ashwinkumar Ganesan, Francis Ferraro, Tim Oates*<br>
+[[paper]](https://aclanthology.org/2021.findings-acl.276/)
+[[Code]](https://github.com/codehacken/bdma)
+
+### 26. CLIME
+
+**Interactive Refinement of Cross-Lingual Word Embeddings (EMNLP 2020).**<br>
+*Michelle Yuan<sup>+</sup>, Mozhi Zhang<sup>+</sup>, Benjamin Van Durme, Leah Findlater, Jordan Boyd-Graber (+: equal contribution)*<br>
+[[paper]](https://aclanthology.org/2020.emnlp-main.482.pdf)
+[[Code]](https://github.com/forest-snow/clime-ui)
+
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
 
@@ -239,8 +253,7 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 
 **A Survey of Cross-Lingual Word Embedding Models (JAIR 2019).**<br>
 *Sebastian Ruder, Ivan Vulić, Anders Søgaard*<br>
-[[paper]](https://www.jair.org/index.php/jair/article/view/11640)
-
+[[paper]](https://www.jair.org/index.php/jair/article/view/11640)githu
 
 ### 6. Embeddings (Dataset)
 
@@ -248,6 +261,13 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 *Antonios Anastasopoulos, Graham Neubig*<br>
 [[paper]](https://aclanthology.org/2020.acl-main.766/)
 [[Code]](https://github.com/antonisa/embeddings)
+
+### 7. xANLG (Analysis)
+
+**Understanding Linearity of Cross-Lingual Word Embedding Mappings (TMLR 2022).**<br>
+*Xutan Peng, Mark Stevenson, Chenghua Lin, Chen Li*<br>
+[[paper]](https://openreview.net/pdf?id=8HuyXvbvqX)
+[[Code]](https://github.com/Pzoom522/xANLG)
 
 # Pull Requests Are Welcome:
 
@@ -260,11 +280,3 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 
 **Comments:**
 
-### No.
-
-** ().**<br>
-**<br>
-[[paper]]()
-[[Code]]()
-
-**Comments:**
