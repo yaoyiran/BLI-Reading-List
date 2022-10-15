@@ -29,5 +29,6 @@ linear_weights = torch.tensor(linear_weights,dtype=torch.float32)
 
 linear_layer = torch.nn.Linear(dim_X,dim_Y,bias=False)
 linear_layer.weight.data = linear_weights.t()
+linear_layer.requires_grad_(False)
 
 X_src_mapped = linear_layer(X_src)
