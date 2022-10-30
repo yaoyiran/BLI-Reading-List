@@ -222,6 +222,13 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 [[paper]](https://aclanthology.org/2020.emnlp-main.482.pdf)
 [[Code]](https://github.com/forest-snow/clime-ui)
 
+### 27. BLICEr
+
+**Improving Bilingual Lexicon Induction with Cross-Encoder Reranking (Findings of EMNLP 2022).**<br>
+*Yaoyiran Li, Fangyu Liu, Ivan Vulić, and Anna Korhonen*<br>
+[[paper]]()
+[[Code]](https://github.com/cambridgeltl/BLICEr)
+
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
 
