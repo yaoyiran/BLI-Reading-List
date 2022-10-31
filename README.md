@@ -260,7 +260,7 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 
 **A Survey of Cross-Lingual Word Embedding Models (JAIR 2019)**<br>
 *Sebastian Ruder, Ivan Vulić, Anders Søgaard*<br>
-[[Paper]](https://www.jair.org/index.php/jair/article/view/11640)githu
+[[Paper]](https://www.jair.org/index.php/jair/article/view/11640)
 
 ### 6. Embeddings (Dataset)
 
