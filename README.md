@@ -226,7 +226,7 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 
 **Improving Bilingual Lexicon Induction with Cross-Encoder Reranking (Findings of EMNLP 2022)**<br>
 *Yaoyiran Li, Fangyu Liu, Ivan Vulić<sup>+</sup>, Anna Korhonen<sup>+</sup> (+: equal contribution)*<br>
-[[Paper]]()
+[[Paper]](https://arxiv.org/abs/2210.16953)
 [[Code]](https://github.com/cambridgeltl/BLICEr)
 
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
