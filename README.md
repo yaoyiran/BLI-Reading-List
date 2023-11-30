@@ -238,7 +238,39 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 [[Paper]](https://arxiv.org/abs/2210.16953)
 [[Code]](https://github.com/cambridgeltl/BLICEr)
 
+### 29. IsoVec
 
+**IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces (EMNLP 2022)**<br>
+*Kelly Marchisio, Neha Verma, Kevin Duh, Philipp Koehn*<br>
+[[Paper]](https://aclanthology.org/2022.emnlp-main.404/)
+[[Code]](https://github.com/kellymarchisio/isovec)
+
+### 30. Dual Word Embedding
+
+**Dual Word Embedding for Robust Unsupervised Bilingual Lexicon Induction (TASLP 2023)**<br>
+*Hailong Cao, Liguo Li, Conghui Zhu, Muyun Yang, Tiejun Zhao*<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10167848/authors)
+
+
+### 31. CD-BLI
+
+**CD-BLI: Confidence-Based Dual Refinement for Unsupervised Bilingual Lexicon Induction (NLPCC 2023)**<br>
+*Shenglong Yu, Wenya Guo, Ying Zhang, Xiaojie Yuan*<br>
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-44696-2_30)
+
+### 32. RAPO
+
+**RAPO: An Adaptive Ranking Paradigm for Bilingual Lexicon Induction (EMNLP 2022)**<br>
+*Zhoujin Tian, Chaozhuo Li, Shuo Ren, Zhiqiang Zuo, Zengxuan Wen, Xinyue Hu, Xiao Han, Haizhen Huang, Denvy Deng, Qi Zhang, Xing Xie*<br>
+[[Paper]](https://aclanthology.org/2022.emnlp-main.606/)
+[[Code]](https://github.com/Jlfj345wf/RAPO)
+
+### 33. ProMap
+
+**ProMap: Effective Bilingual Lexicon Induction via Language Model Prompting (IJCNLP-AACL 2023)**<br>
+*Abdellah El Mekki, Muhammad Abdul-Mageed, ElMoatez Billah Nagoudi, Ismail Berrada, Ahmed Khoumsi*<br>
+[[Paper]](https://arxiv.org/abs/2310.18778)
+[[Code]](https://github.com/4mekki4/promap)
 
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
