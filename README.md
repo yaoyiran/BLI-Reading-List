@@ -245,11 +245,12 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 [[Paper]](https://aclanthology.org/2022.emnlp-main.404/)
 [[Code]](https://github.com/kellymarchisio/isovec)
 
-### 30. Dual Word Embedding
+### 30. Dual-BLI
 
 **Dual Word Embedding for Robust Unsupervised Bilingual Lexicon Induction (TASLP 2023)**<br>
 *Hailong Cao, Liguo Li, Conghui Zhu, Muyun Yang, Tiejun Zhao*<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10167848/authors)
+[[Code]](https://github.com/liguo-cs/Dual-BLI.git)
 
 
 ### 31. CD-BLI
