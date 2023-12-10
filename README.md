@@ -273,6 +273,14 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 [[Paper]](https://arxiv.org/abs/2310.18778)
 [[Code]](https://github.com/4mekki4/promap)
 
+### 34. SAGAN
+
+**A Structure-Aware Generative Adversarial Network for Bilingual Lexicon
+Induction (Findings of EMNLP 2023)**<br>
+*Bocheng Han, Qian Tao, Lusi Li, Zhihao Xiong*<br>
+[[Paper]](https://aclanthology.org/2023.findings-emnlp.721/)
+[[Code]](https://github.com/scutBCH/SAGAN)
+
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
 
@@ -324,7 +332,7 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 
 ### No.
 
-** ()**<br>
+**()**<br>
 **<br>
 [[Paper]]()
 [[Code]]()
