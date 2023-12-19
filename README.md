@@ -281,6 +281,20 @@ Induction (Findings of EMNLP 2023)**<br>
 [[Paper]](https://aclanthology.org/2023.findings-emnlp.721/)
 [[Code]](https://github.com/scutBCH/SAGAN)
 
+### 35. Goat-for-BLI
+
+**Bilingual Lexicon Induction for Low-Resource Languages using Graph Matching via Optimal Transport (EMNLP 2022)**<br>
+*Kelly Marchisio, Ali Saad-Eldin, Kevin Duh, Carey Priebe, Philipp Koehn*<br>
+[[Paper]](https://aclanthology.org/2022.emnlp-main.164/)
+[[Code]](https://github.com/kellymarchisio/goat-for-bli)
+
+### 36. HCEG
+
+**Hierarchical Mapping for Crosslingual Word Embedding Alignment (TACL 2020)**<br>
+*Ion Madrazo Azpiazu, Maria Soledad Pera*<br>
+[[Paper]](https://aclanthology.org/2020.tacl-1.24/)
+[[Code]](https://github.com/ionmadrazo/HCEG)
+
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
 
