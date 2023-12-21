@@ -21,7 +21,7 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 
 **Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion (EMNLP 2018)**<br>
 *Armand Joulin, Piotr Bojanowski, Tomas Mikolov, Hervé Jégou, Edouard Grave*<br>
-[[Paper]](https://aclanthology.org/N15-1104.pdf)
+[[Paper]](https://aclanthology.org/D18-1330/)
 [[Code]](https://github.com/facebookresearch/fastText/tree/main/alignment)
 
 ### 4. VecMap
