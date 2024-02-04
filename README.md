@@ -342,6 +342,9 @@ Induction (Findings of EMNLP 2023)**<br>
 [[Paper]](https://openreview.net/pdf?id=8HuyXvbvqX)
 [[Code]](https://github.com/Pzoom522/xANLG)
 
+# Applications of BLI in Machine Translation, Cross-lingual Transfer Learning, etc.
+
+
 # Pull Requests Are Welcome:
 
 ### No.
