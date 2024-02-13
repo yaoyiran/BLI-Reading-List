@@ -344,6 +344,47 @@ Induction (Findings of EMNLP 2023)**<br>
 
 # Applications of BLI in Machine Translation, Cross-lingual Transfer Learning, etc.
 
+### 1. (Application)
+
+**Dictionary-based phrase-level prompting of large language models for machine translation (Preprint 2023)**<br>
+*Marjan Ghazvininejad, Hila Gonen, Luke Zettlemoyer*<br>
+[[Paper]](https://arxiv.org/abs/2302.07856)
+
+### 2. (Application)
+
+**Improving Zero-Shot Cross-lingual Transfer for Multilingual Question Answering over Knowledge Graph (NAACL 2021)**<br>
+*Yucheng Zhou, Xiubo Geng, Tao Shen, Wenqiang Zhang, Daxin Jiang*<br>
+[[Paper]](https://aclanthology.org/2021.naacl-main.465/)
+
+### 3. (Application)
+
+**Cross-Cultural Similarity Features for Cross-Lingual Transfer Learning of Pragmatically Motivated Tasks (EACL 2021)**<br>
+*Jimin Sun, Hwijeen Ahn, Chan Young Park, Yulia Tsvetkov, David R. Mortensen*<br>
+[[Paper]](https://aclanthology.org/2021.eacl-main.204/)
+
+### 4. (Application)
+
+**Unsupervised Neural Machine Translation (ICLR 2018)**<br>
+*Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho*<br>
+[[Paper]](https://openreview.net/forum?id=Sy2ogebAW)
+
+### 5. (Application)
+
+**When Does Unsupervised Machine Translation Work? (WMT 2020)**<br>
+*Kelly Marchisio, Kevin Duh, Philipp Koehn*<br>
+[[Paper]](https://aclanthology.org/2020.wmt-1.68/)
+
+### 6. (Application)
+
+**Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation (NAACL 2021)**<br>
+*Alexandra Chronopoulou, Dario Stojanovski, Alexander Fraser*<br>
+[[Paper]](https://aclanthology.org/2021.naacl-main.16/)
+
+### 7. (Application)
+
+**CJE-TIG: Zero-shot cross-lingual text-to-image generation by Corpora-based Joint Encoding (Knowledge-Based Systems 2022)**<br>
+*Han Zhang, Suyi Yang, Hongqing Zhu*<br>
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705121011138?via=ihub)
 
 # Pull Requests Are Welcome:
 
