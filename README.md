@@ -299,7 +299,7 @@ Induction (Findings of EMNLP 2023)**<br>
 
 **Self-Augmented In-Context Learning for Unsupervised Word Translation (Preprint 2024)**<br>
 *Yaoyiran Li, Anna Korhonen, Ivan Vulić*<br>
-[[Paper]]()
+[[Paper]](https://arxiv.org/abs/2402.10024)
 
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
