@@ -1,5 +1,5 @@
 # Bilingual Lexicon Induction Reading List
-This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word Translation, Bilingual Lexicon Extraction, Bilingual Dictionary Induction, and so forth. A large body of BLI work relies on calculating Cross-Lingual Word Embeddings (CLWEs) for word retrieval; some other BLI approaches learn a pairwise classifier for BLI; recent work prompts large language models for BLI and achieves strong BLI performance. The list mainly includes 2018-2024 publications. ***Frequently updated. Pull requests and discussions are welcome!***
+This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word Translation, Bilingual Lexicon Extraction, Bilingual Dictionary Induction, and so forth. A large body of BLI work relies on calculating Cross-Lingual Word Embeddings (CLWEs) for word retrieval; some other BLI approaches learn a pairwise classifier for BLI; recent work prompts large language models for BLI and achieves new state-of-the-art BLI performance. The list mainly includes 2018-2024 publications. ***Frequently updated. Pull requests and discussions are welcome!***
 
 # Classical Methods (Frequently Used As Baselines)
 ### 1. Procrustes
