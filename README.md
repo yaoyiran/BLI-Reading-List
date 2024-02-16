@@ -56,7 +56,7 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 [[Paper]](https://arxiv.org/abs/2310.13995)
 [[Code]](https://github.com/cambridgeltl/prompt4bli)
 
-**Comments:** Prompt multilingual LLMs for BLI. Achieves new (2023) state-of-the-art BLI performance on many language pairs!
+**Comments:** Prompt multilingual LLMs for BLI. Achieves new (2023) state-of-the-art BLI performance on many language pairs! A simple demo is provided in our sample code [./SampleCode.py](https://github.com/yaoyiran/Awesome-Bilingual-Lexicon-Induction-Papers-2022/blob/main/SampleCode.py).
 
 ### 3. BLISS
 
@@ -294,6 +294,12 @@ Induction (Findings of EMNLP 2023)**<br>
 *Ion Madrazo Azpiazu, Maria Soledad Pera*<br>
 [[Paper]](https://aclanthology.org/2020.tacl-1.24/)
 [[Code]](https://github.com/ionmadrazo/HCEG)
+
+### 37. SAIL
+
+**Self-Augmented In-Context Learning for Unsupervised Word Translation (Preprint 2024)**<br>
+*Yaoyiran Li, Anna Korhonen, Ivan Vulić*<br>
+[[Paper]]()
 
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
