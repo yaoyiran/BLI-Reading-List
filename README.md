@@ -301,6 +301,18 @@ Induction (Findings of EMNLP 2023)**<br>
 *Yaoyiran Li, Anna Korhonen, Ivan Vulić*<br>
 [[Paper]](https://arxiv.org/abs/2402.10024)
 
+### 38. LFBB
+
+**How Lexical is Bilingual Lexicon Induction? (Findings of NAACL 2024)**<br>
+*Harsh Kohli, Helian Feng, Nicholas Dronen, Calvin McCarter, Sina Moeini, Ali Kebarighotbi*<br>
+[[Paper]](https://arxiv.org/abs/2404.04221)
+
+### 39. BRTR/BRSR  
+
+**Enhancing Bilingual Lexicon Induction via Bi-directional Translation Pair Retrieving (AAAI 2024)**<br>
+*Qiuyu Ding, Hailong Cao, Tiejun Zhao*<br>
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29744)
+
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
 
