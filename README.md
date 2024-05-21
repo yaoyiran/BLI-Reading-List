@@ -313,6 +313,18 @@ Induction (Findings of EMNLP 2023)**<br>
 *Qiuyu Ding, Hailong Cao, Tiejun Zhao*<br>
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29744)
 
+### 40. (Methodology)
+
+**When Your Cousin Has the Right Connections: Unsupervised Bilingual Lexicon Induction for Related Data-Imbalanced Languages (LREC-COLING 2024)**<br>
+*Niyati Bafna, Cristina España-Bonet, Josef van Genabith, Benoît Sagot, Rachel Bawden*<br>
+[[Paper]](https://aclanthology.org/2024.lrec-main.1526/)
+
+### 41. LexGen
+
+**LexGen: Domain-aware Multilingual Lexicon Generation (Preprint 2024)**<br>
+*Karthika NJ, Ayush Maheshwari, Atul Kumar Singh, Preethi Jyothi, Ganesh Ramakrishnan, Krishnakant Bhatt*<br>
+[[Paper]](https://arxiv.org/abs/2405.11200)
+
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
 
