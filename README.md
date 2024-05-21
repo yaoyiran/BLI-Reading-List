@@ -297,7 +297,7 @@ Induction (Findings of EMNLP 2023)**<br>
 
 ### 37. SAIL
 
-**Self-Augmented In-Context Learning for Unsupervised Word Translation (Preprint 2024)**<br>
+**Self-Augmented In-Context Learning for Unsupervised Word Translation (ACL 2024)**<br>
 *Yaoyiran Li, Anna Korhonen, Ivan Vulić*<br>
 [[Paper]](https://arxiv.org/abs/2402.10024)
 
