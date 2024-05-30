@@ -300,6 +300,7 @@ Induction (Findings of EMNLP 2023)**<br>
 **Self-Augmented In-Context Learning for Unsupervised Word Translation (ACL 2024)**<br>
 *Yaoyiran Li, Anna Korhonen, Ivan Vulić*<br>
 [[Paper]](https://arxiv.org/abs/2402.10024)
+[[Code]](https://github.com/cambridgeltl/sail-bli)
 
 ### 38. LFBB
 
