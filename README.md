@@ -326,6 +326,14 @@ Induction (Findings of EMNLP 2023)**<br>
 *Karthika NJ, Ayush Maheshwari, Atul Kumar Singh, Preethi Jyothi, Ganesh Ramakrishnan, Krishnakant Bhatt*<br>
 [[Paper]](https://arxiv.org/abs/2405.11200)
 
+### 42. DM-BLI
+
+**DM-BLI: Dynamic Multiple Subspaces Alignment for Unsupervised Bilingual Lexicon Induction (ACL 2024)**<br>
+*Ling Hu, Yuemei Xu*<br>
+[[Paper]](https://aclanthology.org/2024.acl-long.112/)
+[[Code]](https://github.com/huling-2/DM-BLI)
+
+
 # Recent Progress in BLI: Datasets, Benchmarks, Analyses & Surveys
 ### 1. XLING (Dataset)
 
