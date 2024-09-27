@@ -1,8 +1,15 @@
 # Bilingual Lexicon Induction Reading List
 This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word Translation, Bilingual Lexicon Extraction, Bilingual Dictionary Induction, and so forth. A large body of BLI work relies on calculating Cross-Lingual Word Embeddings (CLWEs) for word retrieval; some other BLI approaches learn a pairwise classifier for BLI; recent work prompts large language models for BLI and achieves new state-of-the-art BLI performance. The list mainly includes 2018-2024 publications. ***Frequently updated. Pull requests and discussions are welcome!***
 
-# Classical Methods (Frequently Used As Baselines)
-### 1. Procrustes
+# Classical Methods (Before 2019)
+
+### 1. Translation Matrix
+
+**Exploiting Similarities among Languages for Machine Translation (arXiv 2013)**<br>
+*Tomas Mikolov, Quoc V. Le, Ilya Sutskever*<br>
+[[Paper]](https://arxiv.org/pdf/1309.4168)
+
+### 2. Procrustes
 
 **Normalized Word Embedding and Orthogonal Transform for Bilingual Word Translation (NAACL 2015)**<br>
 *Chao Xing, Dong Wang, Chao Liu, Yiye Lin*<br>
@@ -10,21 +17,21 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 
 **Comments:** Beginners could also refer to [Procrustes on Wikipedia](https://en.wikipedia.org/wiki/Orthogonal_Procrustes_problem) and our sample code [./SampleCode.py](https://github.com/yaoyiran/Awesome-Bilingual-Lexicon-Induction-Papers-2022/blob/main/SampleCode.py). 
 
-### 2. MUSE
+### 3. MUSE
 
 **Word Translation Without Parallel Data (ICLR 2018)**<br>
 *Guillaume Lample, Alexis Conneau, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou*<br>
 [[Paper]](https://openreview.net/pdf?id=H196sainb)
 [[Code]](https://github.com/facebookresearch/MUSE)
 
-### 3. RCSLS
+### 4. RCSLS
 
 **Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion (EMNLP 2018)**<br>
 *Armand Joulin, Piotr Bojanowski, Tomas Mikolov, Hervé Jégou, Edouard Grave*<br>
 [[Paper]](https://aclanthology.org/D18-1330/)
 [[Code]](https://github.com/facebookresearch/fastText/tree/main/alignment)
 
-### 4. VecMap
+### 5. VecMap
 
 **A Robust Self-Learning Method for Fully Unsupervised Cross-Lingual Mappings of Word Embeddings (ACL 2018)**<br>
 *Mikel Artetxe, Gorka Labaka, Eneko Agirre*<br>
@@ -212,7 +219,7 @@ This is a reading list for Bilingual Lexicon Induction (BLI), also known as Word
 
 ### 25. ContextualMapping
 
-**Cross-Lingual BERT Contextual Embedding Space Mapping with Isotropic and Isometric Conditions (Preprint 2021)**<br>
+**Cross-Lingual BERT Contextual Embedding Space Mapping with Isotropic and Isometric Conditions (arXiv 2021)**<br>
 *Haoran Xu, Philipp Koehn*<br>
 [[Paper]](https://arxiv.org/pdf/2107.09186.pdf)
 [[Code]](https://github.com/fe1ixxu/Contextual_Mapping)
@@ -322,7 +329,7 @@ Induction (Findings of EMNLP 2023)**<br>
 
 ### 41. LexGen
 
-**LexGen: Domain-aware Multilingual Lexicon Generation (Preprint 2024)**<br>
+**LexGen: Domain-aware Multilingual Lexicon Generation (arXiv 2024)**<br>
 *Karthika NJ, Ayush Maheshwari, Atul Kumar Singh, Preethi Jyothi, Ganesh Ramakrishnan, Krishnakant Bhatt*<br>
 [[Paper]](https://arxiv.org/abs/2405.11200)
 
@@ -385,7 +392,7 @@ Induction (Findings of EMNLP 2023)**<br>
 
 ### 1. (Application)
 
-**Dictionary-based phrase-level prompting of large language models for machine translation (Preprint 2023)**<br>
+**Dictionary-based phrase-level prompting of large language models for machine translation (arXiv 2023)**<br>
 *Marjan Ghazvininejad, Hila Gonen, Luke Zettlemoyer*<br>
 [[Paper]](https://arxiv.org/abs/2302.07856)
 
