@@ -388,6 +388,13 @@ Induction (Findings of EMNLP 2023)**<br>
 [[Paper]](https://openreview.net/pdf?id=8HuyXvbvqX)
 [[Code]](https://github.com/Pzoom522/xANLG)
 
+### 8. (Analysis)
+
+**A Comprehensive Analysis of Bilingual Lexicon Induction (CL 2017)**<br>
+*Ann Irvine, Chris Callison-Burch*<br>
+[[Paper]](https://aclanthology.org/J17-2001/)
+
+
 # Applications of BLI in Machine Translation, Cross-lingual Transfer Learning, etc.
 
 ### 1. (Application)
